@@ -1,0 +1,35 @@
+body {background-color: white;}
+p{font-family: Cambria }
+p.Discover { font-size: 20pt; font-style: Italic; text-decoration;blink; color: black; }
+p.why{ font-size: 20;}
+p.cs, p.cs1, p.what {font-size:20pt; text-align: center;}
+p.what {color: white; font-size:25pt;}
+p.blog {font-size:13pt; text-align: center; color: white;}
+p.p1, p.p2, p.p3, p.p3, p.p4 {font-size:13pt; text-align: justify; color: white;}
+p.his, p.his1,p.gn {color: black;}
+p.gn1 {color: black;}
+p.his, p.gn {font-size:25pt;}
+p.man, p.man1 {color: white;}
+p.man{font-size:25pt;}
+p.footer {color: black; text-align: center;}
+P.m1, P.m2, P.m3, P.m4, P.m5{color: white; font-size:15pt;} 
+P.m11, P.m21, P.m31, P.m41, P.m51 {color: white; font-size:15pt;} 
+p.con, p.social {font-size: 20pt;}
+p.email {font-style: Italic;}
+p.loyal {font-size: 18pt; color: black;}
+table{font-size:13pt; text-align: center; color: white; background-color:#fffff;}
+table.mantra {background-color: black;}
+table.hamc{background-color:black; font-size: 13pt;}
+table.footer {background-color: #dcd0c0;}
+table.blog, table.menu1 {background-color: #c0b283;}
+table.video{background-color: c0b283;}
+table.sns, table.cafepic, table.cafepic1 {background-color: #c0b283;}
+a:link {text-decoration: none; color: white; }
+a:visited {text-decoration: none; color: white;} 
+a:hover {color: #e7a339;}
+a:link.cs, a:link.cs1 {text-decoration: none; color: black; }
+a:visited.cs, a:visited.cs1 {text-decoration: none; color: black;} 
+a:hover.cs, a:hover.cs1 {color: #e7a339;}
+a:link.here {text-decoration: none; color: black; }
+a:visited.here {text-decoration: none; color: black;} 
+a:hover.here {color: #e7a339;}
